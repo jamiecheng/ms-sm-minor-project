@@ -1,0 +1,1 @@
+# ms-sm-minor-project
